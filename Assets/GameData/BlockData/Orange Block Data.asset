@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185a9d10a6e965a40b2ada132ad054bd, type: 3}
+  m_Name: Orange Block Data
+  m_EditorClassIdentifier: 
+  blockPrefab: {fileID: 7974633506512229037, guid: 980883f77df1f214c8e99ff0d7f66970, type: 3}
+  score: 10
+  blockType: 1
+  blockHeight: 0.32
+  blockWidth: 0.62
